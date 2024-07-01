@@ -172,6 +172,7 @@ p + ggtitle("n = 36") +
 print(paste('mean = ', mean(my1000$k36),' sd = ',sd(my1000$k36)))
 
 ```
-
+  
+  
 
 # Now finish by adding blocks with numb being 9, then 16, 25, and 36. be sure to mention how the standard deviation progresses as the sample size changes,
